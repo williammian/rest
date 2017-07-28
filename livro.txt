@@ -1,4 +1,2 @@
 Livro Casa do Código
 Rest - Construa APIs inteligentes de maneira simples
-
-5.2
