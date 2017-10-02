@@ -13,7 +13,6 @@ public class Cervejas {
 	
 	private List<Cerveja> cervejas = new ArrayList<>();
 	
-	
 	@XmlElement(name="cerveja")
 	public List<Cerveja> getCervejas() {
 		return cervejas;
