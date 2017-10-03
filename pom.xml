@@ -12,6 +12,7 @@
   	<module>cap-05</module>
   	<module>testreq</module>
   	<module>cap-06</module>
+  	<module>testrest</module>
   </modules>
   
   <dependencies>	
