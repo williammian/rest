@@ -13,6 +13,8 @@
   	<module>testreq</module>
   	<module>cap-06</module>
   	<module>testrest</module>
+  	<module>cap-07-server</module>
+  	<module>cap-07-jaxrs</module>
   </modules>
   
   <dependencies>	
