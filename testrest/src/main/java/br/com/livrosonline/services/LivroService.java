@@ -34,7 +34,7 @@ import br.com.livrosonline.model.rest.Livros;
 @Produces({MediaType.TEXT_XML,MediaType.APPLICATION_XML,MediaType.APPLICATION_JSON})
 public class LivroService {
 	
-	private static final int TAMANHO_PAGINA = 1;
+	private static final int TAMANHO_PAGINA = 5;
 
 	private static Estoque estoque = new Estoque();
 
