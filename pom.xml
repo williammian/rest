@@ -20,6 +20,7 @@
   	<module>cap-08-oauth</module>
   	<module>cap-08-oauth-server</module>
   	<module>cap-08-oauth-server-test</module>
+  	<module>cap-08-ssl</module>
   </modules>
   
   <dependencies>	
