@@ -19,6 +19,7 @@
   	<module>cap-07-resteasy</module>
   	<module>cap-08-oauth</module>
   	<module>cap-08-oauth-server</module>
+  	<module>cap-08-oauth-server-test</module>
   </modules>
   
   <dependencies>	
