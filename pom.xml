@@ -24,6 +24,8 @@
   	<module>cap-09-buscaexemplos</module>
   	<module>cap-09-funcoes</module>
   	<module>cap-09-async</module>
+  	<module>cap-09-concorrencia</module>
+  	<module>cap-09-interceptacao</module>
   </modules>
   
   <dependencies>	
