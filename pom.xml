@@ -22,6 +22,7 @@
   	<module>cap-08-oauth-server-test</module>
   	<module>cap-08-ssl</module>
   	<module>cap-09-buscaexemplos</module>
+  	<module>cap-09-funcoes</module>
   </modules>
   
   <dependencies>	
