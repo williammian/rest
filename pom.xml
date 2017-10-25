@@ -27,6 +27,7 @@
   	<module>cap-09-concorrencia</module>
   	<module>cap-09-interceptacao</module>
   	<module>cap-09-testes</module>
+  	<module>cap-09-dados-customizados</module>
   </modules>
   
   <dependencies>	
